@@ -5,8 +5,6 @@
 # clean all
 rm(list=ls())
 
-# working dir
-
 # to reload the whole dataset at once, run
 load(file="aida.RData")
 View(aida)
